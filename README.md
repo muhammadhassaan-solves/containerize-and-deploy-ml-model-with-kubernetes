@@ -1,4 +1,4 @@
-<h1>Containerizing and Deploying a Machine Learning Model on Kubernetes with REST API Access</h1>
+<h1>Containerizing and Deploying a Machine Learning Model on Kubernetes</h1>
 
 
 <h2>Description</h2>
@@ -20,19 +20,19 @@ This project demonstrates how to containerize a machine learning model using Doc
 
 <p align="center">
 Containerized Flask-based REST API <br />
-<img src="https://i.imgur.com/ySDq3CD.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ySDq3CD.jpeg" />
 <br />
 <br />
 Deployed the container to Kubernetes <br/>
-<img src="https://i.imgur.com/eoOqEft.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eoOqEft.jpeg" />
 <br />
 <br />
 Exposed the service <br/>
-<img src="https://i.imgur.com/KQ0fcYN.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KQ0fcYN.jpeg" />
 <br />
 <br />
 Tested the API <br/>
-<img src="https://i.imgur.com/9zO1wEZ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9zO1wEZ.jpeg" />
 <br />
 <br />
 
