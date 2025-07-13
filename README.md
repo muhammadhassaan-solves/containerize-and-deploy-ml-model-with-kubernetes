@@ -19,19 +19,19 @@ This project demonstrates how to containerize a machine learning model using Doc
 <h2>Project Walk-through</h2>
 
 <p align="center">
-Containerized Flask-based REST API <br />
+Containerize Flask-based REST API <br />
 <img src="https://i.imgur.com/ySDq3CD.jpeg" />
 <br />
 <br />
-Deployed the container to Kubernetes <br/>
+Deploy the container to Kubernetes <br/>
 <img src="https://i.imgur.com/eoOqEft.jpeg" />
 <br />
 <br />
-Exposed the service <br/>
+Expose the service <br/>
 <img src="https://i.imgur.com/KQ0fcYN.jpeg" />
 <br />
 <br />
-Tested the API <br/>
+Test the API <br/>
 <img src="https://i.imgur.com/9zO1wEZ.jpeg" />
 <br />
 <br />
